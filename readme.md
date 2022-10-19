@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Java Script
 - 💞️ I’m looking to collaborate on interesting project
 - 📫 How to reach me -
-- Linked in : https://www.linkedin.com/in/shiv-sai-indrakanti-290a79226/
+- Linked-in : https://www.linkedin.com/in/shiv-sai-indrakanti-290a79226/
 - Instagram: https://www.instagram.com/shiv.indrakanti/?hl=en
 - Email: shivindrakanti@gmail.com
 
