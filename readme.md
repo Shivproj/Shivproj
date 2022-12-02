@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Shivproj
 - 👀 I’m interested in various facets of CS and development
-- 🌱 I’m currently learning Java Script
+- 🌱 I’m currently learning React and Node.JS
 - 💞️ I’m looking to collaborate on interesting project
 - 📫 How to reach me -
 - Linked-in : https://www.linkedin.com/in/shiv-sai-indrakanti-290a79226/
