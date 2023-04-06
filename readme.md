@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on a React Application<br>👯 I’m looking to collaborate on building cool applications<br>🤝 I’m looking for help with the intricacies of being a full-stack developer<br>🌱 I’m currently learning authentication
+🔭 I’m currently working on a ML project<br>👯 I’m looking to collaborate on building cool applications powered by AI <br>🤝 I’m looking for help with the intricacies of being a full-stack developer<br>🌱 I’m currently learning Machine Learning
 
 
 ## 🌐 Socials:
